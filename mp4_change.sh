@@ -1,0 +1,1 @@
+MP4Box -add ./image/vid.h264 ./image/vid3.mp4
